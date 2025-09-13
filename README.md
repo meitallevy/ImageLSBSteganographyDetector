@@ -18,16 +18,12 @@ A Python tool for **extracting and analyzing hidden payloads** from images using
 ---
 
 ## Installation
-
 ```bash
 pip install -r requirements.txt
 ```
----
 
 ## Dependencies:
-
-Pillow - for image processing,
-Stegano - for encoding
+Stegano - for encoding, Pillow - for image processing,
 
 ---
 ## Usage
@@ -45,7 +41,7 @@ Preview: fR2:/'
 No suspicious patterns detected.
 --------------------------------------------------
 [Mode: G]
-Preview: 01ya
+Preview: 01ya
 No suspicious patterns detected.
 --------------------------------------------------
 [Mode: B]
