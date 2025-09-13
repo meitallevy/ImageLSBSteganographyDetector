@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Dependencies:
 
-Pillow - for image processing
+Pillow - for image processing,
 Stegano - for encoding
 
 ---
