@@ -26,7 +26,8 @@ pip install -r requirements.txt
 
 ## Dependencies:
 
-Pillow – for image processing
+Pillow - for image processing
+Stegano - for encoding
 
 ---
 ## Usage
@@ -44,7 +45,7 @@ Preview: fR2:/'
 No suspicious patterns detected.
 --------------------------------------------------
 [Mode: G]
-review: 01ya
+Preview: 01ya
 No suspicious patterns detected.
 --------------------------------------------------
 [Mode: B]
@@ -52,7 +53,7 @@ Preview: Ǉ
 No suspicious patterns detected.
 --------------------------------------------------
 [Mode: INTERLEAVED]
-Preview: 23:print('hiiiiiiiiiiiii').o!')'C)B"?
+Preview: 23:print('I am malicious moohaha!').o!')'C)B"?
 Suspicious patterns detected!
 Code indicators: ['\\bprint\\s*\\(']
 --------------------------------------------------
